@@ -1,5 +1,5 @@
 ### Hi there 👋
-![TsujiTetsunari's GitHub stats](https://github-readme-stats.vercel.app/api?username=TsujiTetsunari&show_icons=true&theme=radical&count_private=true)                  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsujiTetsunari&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![TsujiTetsunari's GitHub stats](https://github-readme-stats.vercel.app/api?username=TsujiTetsunari&show_icons=true&theme=radical&count_private=true)                     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsujiTetsunari&layout=compact&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![TsujiTetsunari's github activity graph](https://activity-graph.herokuapp.com/graph?username=TsujiTetsunari&theme=nord)](https://github.com/TsujiTetsunari/github-readme-activity-graph)
