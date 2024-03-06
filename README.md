@@ -2,10 +2,10 @@
 
 ![count](https://komarev.com/ghpvc/?username=TsujiTetsunari)
 
-![torofi](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TsujiTetsunari&theme=dracula)
+![torofi](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TsujiTetsunari&theme=dracula&count_private=true)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TsujiTetsunari&theme=dracula)![laung](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TsujiTetsunari&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TsujiTetsunari&theme=dracula)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TsujiTetsunari&theme=dracula&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TsujiTetsunari&theme=dracula&count_private=true)![laung](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TsujiTetsunari&theme=dracula&count_private=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TsujiTetsunari&theme=dracula&count_private=true)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TsujiTetsunari&theme=dracula&utcOffset=8&count_private=true)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TsujiTetsunari&show_icons=true&theme=radical&count_private=true" />
