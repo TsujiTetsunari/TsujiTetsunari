@@ -12,7 +12,9 @@
 </div>
 
 
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TsujiTetsunari&custom_title=User's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
+</div>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=TsujiTetsunari&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
