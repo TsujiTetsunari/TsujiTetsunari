@@ -1,10 +1,19 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&animation=twinkling" />
+</div>
+
+
 ### Hi there 👋
 
 ![count](https://komarev.com/ghpvc/?username=TsujiTetsunari)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&animation=twinkling" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TsujiTetsunari&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
 </div>
+
+
+
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=TsujiTetsunari&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
